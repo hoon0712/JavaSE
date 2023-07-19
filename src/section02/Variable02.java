@@ -10,7 +10,7 @@ package section02;
  * 변수 초기화
  *	변수를 사용하기전 값을 처음 할당하는 것을 의미한다.
  */
-public class Vaeiable02 {
+public class Variable02 {
 	public static void main(String[] args) {
 		// char 형 변수 선언 및 대입
 		char ch1 = 'A';

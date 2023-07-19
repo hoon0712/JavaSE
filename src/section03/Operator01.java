@@ -5,7 +5,7 @@ package section03;
  *  연산에 사용되는 표시나 기호를 연산자(operator)라고 한다.
  *  
  *  1. 산술연산자
- *  +, -, *
+ *  +, -, *, /, %
  */
 public class Operator01 {
 	public static void main(String[] args) {
