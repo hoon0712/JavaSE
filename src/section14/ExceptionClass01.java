@@ -10,6 +10,7 @@ package section14;
  * } catch(익셉션클래스 매개변수명) {
  * 		해당 예외가 발생했을 경우 실행할 코드
  * }
+ * 
  */
 public class ExceptionClass01 {
 	
